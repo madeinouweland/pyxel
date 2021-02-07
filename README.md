@@ -1,4 +1,4 @@
 # pyxel
 script to pixellate images
 
-[preview]()
+![preview](https://github.com/madeinouweland/pyxel/blob/main/preview.png)
